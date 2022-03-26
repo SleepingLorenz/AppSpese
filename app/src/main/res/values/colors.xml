@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorAccent">#0E3252</color>
+    <color name="colorChiaro">#2D476F</color>
+    <color name="colorScuro">#2B315A</color>
+
+    <color name="white">#fff</color>
+
+    <color name="sfondo">#212425</color>
+    <color name="secondChiaro">#1DBA9B</color>
+    <color name="secondScuro">#12675E</color>
+    <color name="bgTextView">#C4FFFFFF</color>
+
+</resources>
